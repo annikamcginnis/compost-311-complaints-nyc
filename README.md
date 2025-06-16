@@ -1,4 +1,6 @@
 # Analyzing 311 Complaints Over Composting, as of June 2025
 
-In this repo, I analyze all NYC 311 complaints related to the city's composting initiatives from 2010 to June 2025. I adjust by population of NYC zip codes, downloaded from the U.S. Census. 
+In this repo, I analyze and conduct exploratory data visualization on all NYC 311 complaints related to the city's composting initiatives from 2010 to June 2025 in Python pandas and R. I adjust by population of NYC zip codes, downloaded from the U.S. Census. I also integrate median income data from the census. 
+
+For a class assignment in the Writing With Data class, Columbia Journalism School MS in Data Journalism, 2025.
 
